@@ -2,7 +2,7 @@
 const API_KEY = 'f0d09276d56504867a7c137548b6f4c9';
 
 // variable for lat and lon values
-const BASE_URL = 'http://api.openweathermap.org/geo/1.0/direct?'
+const BASE_URL = 'https://api.openweathermap.org/geo/1.0/direct?'
 
 // variable for accurate weather
 const ACC_URL = 'https://api.openweathermap.org/data/2.5/weather?'
